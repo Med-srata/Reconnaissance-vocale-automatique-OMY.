@@ -9,3 +9,5 @@ Dans ce projet , nous avons réalisé une application de reconnaissance vocale �
 <li>Une r&eacute;ponse vocale de la machine qui d&eacute;finit le master SER g&eacute;n&eacute;ralement.</li>
 <li>La lecture du message &laquo;&nbsp;Au revoir&nbsp;&raquo; puis la r&eacute;ponse automatique par ce dernier.</li>
 </ul>
+Pour voir l'exécution de cette application, vous pouvez visiter ce lien:
+https://www.linkedin.com/feed/update/urn:li:activity:6778344016057643008/
